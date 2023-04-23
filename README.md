@@ -1,16 +1,10 @@
 # g2railtest
 
-A new Flutter project.
+僅展示
+1。簡單的 flutter widget 演示 
+2。畫面切換的方法
+3。context/mounted/Future/async/await
+4。static variables
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+api 測試演示
+｛apikey｝｛secret｝ 請洽 g2rail / xmove 或 助教
